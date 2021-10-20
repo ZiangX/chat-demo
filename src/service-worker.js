@@ -103,7 +103,7 @@ function resFn(res) {
 self.addEventListener('fetch', async (event) => {
   
   if(event.request.url.includes("facebook")) {
-    console.log('req', event.request.url, event);
+    console.log('req123', event.request.url, event);
     // event.respondWith(fetch(event.request).then(resFn));
   }
   
