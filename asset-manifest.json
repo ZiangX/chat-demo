@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/chat-demo/static/css/main.a617e044.chunk.css",
+    "main.css": "/chat-demo/static/css/main.5739ad41.chunk.css",
     "main.js": "/chat-demo/static/js/main.b3b5a9f9.chunk.js",
     "main.js.map": "/chat-demo/static/js/main.b3b5a9f9.chunk.js.map",
     "runtime-main.js": "/chat-demo/static/js/runtime-main.78c0a19a.js",
@@ -14,7 +14,7 @@
     "service-worker.js": "/chat-demo/service-worker.js",
     "service-worker.js.map": "/chat-demo/service-worker.js.map",
     "static/css/2.dd79f5e5.chunk.css.map": "/chat-demo/static/css/2.dd79f5e5.chunk.css.map",
-    "static/css/main.a617e044.chunk.css.map": "/chat-demo/static/css/main.a617e044.chunk.css.map",
+    "static/css/main.5739ad41.chunk.css.map": "/chat-demo/static/css/main.5739ad41.chunk.css.map",
     "static/js/2.59607c40.chunk.js.LICENSE.txt": "/chat-demo/static/js/2.59607c40.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/chat-demo/static/media/logo.6ce24c58.svg"
   },
@@ -22,7 +22,7 @@
     "static/js/runtime-main.78c0a19a.js",
     "static/css/2.dd79f5e5.chunk.css",
     "static/js/2.59607c40.chunk.js",
-    "static/css/main.a617e044.chunk.css",
+    "static/css/main.5739ad41.chunk.css",
     "static/js/main.b3b5a9f9.chunk.js"
   ]
 }
