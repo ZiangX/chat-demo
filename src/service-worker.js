@@ -104,7 +104,7 @@ self.addEventListener('fetch', async (event) => {
   
   if(event.request.url.includes("facebook")) {
     console.log('req', event.request.url, event);
-    event.respondWith(fetch(event.request).then(resFn));
+    // event.respondWith(fetch(event.request).then(resFn));
   }
   
   // const { request } = event;
